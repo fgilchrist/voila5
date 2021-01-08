@@ -1,9 +1,9 @@
 name: voila
 dependencies:
-  - python=3.7
-  - numpy
-  - matplotlib
-  - jupyterlab
+  - python=3.7.6
   - pip:
+    - numpy
+    - matplotlib
+    - jupyterlab
     - voila
 
